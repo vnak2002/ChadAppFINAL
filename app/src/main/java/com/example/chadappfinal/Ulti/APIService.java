@@ -1,7 +1,7 @@
 package com.example.chadappfinal.Ulti;
 
-import com.mobile.messageclone.Model.MyResponse;
-import com.mobile.messageclone.Model.Sender;
+import com.example.chadappfinal.Model.MyResponse;
+import com.example.chadappfinal.Model.Sender;
 
 import retrofit2.Call;
 import retrofit2.http.Body;

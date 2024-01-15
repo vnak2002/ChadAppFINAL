@@ -12,7 +12,7 @@ import android.os.Build;
 
 import androidx.core.app.NotificationCompat;
 
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.R;
 
 public class OreoNotification extends ContextWrapper {
     public OreoNotification(Context base) {

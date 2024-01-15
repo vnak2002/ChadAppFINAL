@@ -30,7 +30,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.mobile.messageclone.Activity.ChatActivity;
+import com.example.chadappfinal.Activity.ChatActivity;
 
 import java.util.LinkedList;
 

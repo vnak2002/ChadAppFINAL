@@ -16,12 +16,12 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.google.firebase.auth.FirebaseAuth;
 import com.mikhaellopez.circularimageview.CircularImageView;
-import com.mobile.messageclone.Model.ContactLastMessTime;
-import com.mobile.messageclone.Model.Message;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.Ulti.DateToString;
-import com.mobile.messageclone.Ulti.DrawProfilePicture;
-import com.mobile.messageclone.Ulti.RecyclerViewClickInterface;
+import com.example.chadappfinal.Model.ContactLastMessTime;
+import com.example.chadappfinal.Model.Message;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.Ulti.DateToString;
+import com.example.chadappfinal.Ulti.DrawProfilePicture;
+import com.example.chadappfinal.Ulti.RecyclerViewClickInterface;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

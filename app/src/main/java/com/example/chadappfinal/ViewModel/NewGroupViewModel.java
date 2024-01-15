@@ -3,7 +3,7 @@ package com.example.chadappfinal.ViewModel;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.mobile.messageclone.Model.ContactAndSeenTime;
+import com.example.chadappfinal.Model.ContactAndSeenTime;
 
 import java.util.ArrayList;
 

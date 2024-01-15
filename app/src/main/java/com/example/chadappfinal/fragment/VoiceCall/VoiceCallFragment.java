@@ -20,13 +20,13 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.mobile.messageclone.Activity.ChatActivity;
-import com.mobile.messageclone.Model.CallHistory;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.RecycerViewAdapater.VoiceCallAdapter;
-import com.mobile.messageclone.Ulti.DateToString;
-import com.mobile.messageclone.Ulti.RecyclerViewClickInterface;
-import com.mobile.messageclone.ViewModel.ChatViewModel;
+import com.example.chadappfinal.Activity.ChatActivity;
+import com.example.chadappfinal.Model.CallHistory;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.RecycerViewAdapater.VoiceCallAdapter;
+import com.example.chadappfinal.Ulti.DateToString;
+import com.example.chadappfinal.Ulti.RecyclerViewClickInterface;
+import com.example.chadappfinal.ViewModel.ChatViewModel;
 
 import java.util.ArrayList;
 

@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 
 import androidx.fragment.app.Fragment;
 
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.R;
 
 /**
  * A simple {@link Fragment} subclass.

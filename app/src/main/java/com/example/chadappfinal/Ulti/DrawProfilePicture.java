@@ -10,7 +10,7 @@ import android.graphics.Typeface;
 import android.text.Layout;
 
 import com.amulyakhare.textdrawable.TextDrawable;
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.R;
 
 
 public class DrawProfilePicture {

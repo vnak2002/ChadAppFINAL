@@ -14,10 +14,10 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.mikhaellopez.circularimageview.CircularImageView;
-import com.mobile.messageclone.Model.CallHistory;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.Ulti.DrawProfilePicture;
-import com.mobile.messageclone.Ulti.RecyclerViewClickInterface;
+import com.example.chadappfinal.Model.CallHistory;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.Ulti.DrawProfilePicture;
+import com.example.chadappfinal.Ulti.RecyclerViewClickInterface;
 
 import java.util.ArrayList;
 

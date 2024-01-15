@@ -17,11 +17,11 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.textfield.TextInputEditText;
-import com.mobile.messageclone.Model.CountryToPhonePrefix;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.RecycerViewAdapater.CountryListAdapter;
-import com.mobile.messageclone.Ulti.RecyclerViewClickInterface;
-import com.mobile.messageclone.ViewModel.SignInViewModel;
+import com.example.chadappfinal.Model.CountryToPhonePrefix;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.RecycerViewAdapater.CountryListAdapter;
+import com.example.chadappfinal.Ulti.RecyclerViewClickInterface;
+import com.example.chadappfinal.ViewModel.SignInViewModel;
 
 import java.util.ArrayList;
 

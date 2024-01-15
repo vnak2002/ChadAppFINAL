@@ -3,7 +3,7 @@ package com.example.chadappfinal.ViewModel;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.mobile.messageclone.Model.CountryToPhonePrefix;
+import com.example.chadappfinal.Model.CountryToPhonePrefix;
 
 public class SignInViewModel extends ViewModel {
 

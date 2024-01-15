@@ -8,9 +8,9 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.mikhaellopez.circularimageview.CircularImageView;
-import com.mobile.messageclone.Model.LibMessage;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.Ulti.DrawProfilePicture;
+import com.example.chadappfinal.Model.LibMessage;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.Ulti.DrawProfilePicture;
 import com.stfalcon.chatkit.messages.MessageHolders;
 
 public class CustomIntComingMessageViewHolder extends MessageHolders.IncomingTextMessageViewHolder<LibMessage> {

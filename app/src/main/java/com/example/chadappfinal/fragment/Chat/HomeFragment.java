@@ -23,14 +23,14 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.mobile.messageclone.Model.Contact;
-import com.mobile.messageclone.Model.ContactLastMessTime;
-import com.mobile.messageclone.Model.Group;
-import com.mobile.messageclone.Model.Message;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.RecycerViewAdapater.ContactListHomeAdapter;
-import com.mobile.messageclone.Ulti.RecyclerViewClickInterface;
-import com.mobile.messageclone.ViewModel.ChatViewModel;
+import com.example.chadappfinal.Model.Contact;
+import com.example.chadappfinal.Model.ContactLastMessTime;
+import com.example.chadappfinal.Model.Group;
+import com.example.chadappfinal.Model.Message;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.RecycerViewAdapater.ContactListHomeAdapter;
+import com.example.chadappfinal.Ulti.RecyclerViewClickInterface;
+import com.example.chadappfinal.ViewModel.ChatViewModel;
 
 import java.util.LinkedList;
 

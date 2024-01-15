@@ -11,8 +11,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.mobile.messageclone.Model.Message;
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.Model.Message;
+import com.example.chadappfinal.R;
 
 import java.text.SimpleDateFormat;
 import java.util.LinkedList;

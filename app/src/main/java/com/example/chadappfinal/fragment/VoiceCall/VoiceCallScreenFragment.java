@@ -15,8 +15,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
-import com.mobile.messageclone.Activity.ChatActivity;
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.Activity.ChatActivity;
+import com.example.chadappfinal.R;
 
 
 public class VoiceCallScreenFragment extends DialogFragment {

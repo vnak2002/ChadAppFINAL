@@ -19,8 +19,8 @@ import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.UserProfileChangeRequest;
 import com.google.firebase.database.FirebaseDatabase;
-import com.mobile.messageclone.Model.User;
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.Model.User;
+import com.example.chadappfinal.R;
 
 /**
  * A simple {@link Fragment} subclass.

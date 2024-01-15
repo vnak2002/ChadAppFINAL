@@ -53,12 +53,12 @@ import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.UploadTask;
 import com.mikhaellopez.circularimageview.CircularImageView;
-import com.mobile.messageclone.Activity.ChatActivity;
-import com.mobile.messageclone.Activity.MainActivity;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.Ulti.ActivityUlti;
-import com.mobile.messageclone.Ulti.DrawProfilePicture;
-import com.mobile.messageclone.ViewModel.ChatViewModel;
+import com.example.chadappfinal.Activity.ChatActivity;
+import com.example.chadappfinal.Activity.MainActivity;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.Ulti.ActivityUlti;
+import com.example.chadappfinal.Ulti.DrawProfilePicture;
+import com.example.chadappfinal.ViewModel.ChatViewModel;
 import com.theartofdev.edmodo.cropper.CropImage;
 import com.theartofdev.edmodo.cropper.CropImageView;
 

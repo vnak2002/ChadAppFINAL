@@ -8,7 +8,7 @@ import androidx.navigation.NavGraph;
 import androidx.navigation.Navigation;
 
 import com.google.firebase.auth.FirebaseAuth;
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.R;
 
 public class MainActivity extends AppCompatActivity {
 

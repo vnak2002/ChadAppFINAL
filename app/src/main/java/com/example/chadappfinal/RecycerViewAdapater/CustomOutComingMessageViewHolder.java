@@ -4,8 +4,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 
-import com.mobile.messageclone.Model.LibMessage;
-import com.mobile.messageclone.R;
+import com.example.chadappfinal.Model.LibMessage;
+import com.example.chadappfinal.R;
 import com.stfalcon.chatkit.messages.MessageHolders;
 
 public class CustomOutComingMessageViewHolder extends MessageHolders.OutcomingTextMessageViewHolder<LibMessage> {

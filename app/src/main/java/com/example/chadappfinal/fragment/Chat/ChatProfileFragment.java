@@ -28,13 +28,13 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.mobile.messageclone.Model.Contact;
-import com.mobile.messageclone.Model.User;
-import com.mobile.messageclone.R;
-import com.mobile.messageclone.RecycerViewAdapater.ContactListHomeAdapter;
-import com.mobile.messageclone.Ulti.ActivityUlti;
-import com.mobile.messageclone.Ulti.DrawProfilePicture;
-import com.mobile.messageclone.ViewModel.ChatViewModel;
+import com.example.chadappfinal.Model.Contact;
+import com.example.chadappfinal.Model.User;
+import com.example.chadappfinal.R;
+import com.example.chadappfinal.RecycerViewAdapater.ContactListHomeAdapter;
+import com.example.chadappfinal.Ulti.ActivityUlti;
+import com.example.chadappfinal.Ulti.DrawProfilePicture;
+import com.example.chadappfinal.ViewModel.ChatViewModel;
 
 import org.jetbrains.annotations.NotNull;
 
