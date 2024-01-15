@@ -10,6 +10,11 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url 'http://dl.bintray.com/amulyakhare/maven' }
+        flatDir {
+            dirs 'libs'
+        }
     }
 }
 
